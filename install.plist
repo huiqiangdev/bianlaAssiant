@@ -2,53 +2,46 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>   
-                              
-          <array>
-              <dict>
-                  <key>kind</key>
-                  <string>software-package</string>
-                  <key>url</key>
-                  <string>https://***/XXX.ipa</string>
-              </dict> 
-                             
-              <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://***/Icon57.png</string>
-                </dict>
-
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://***/Icon57.png</string>
-                </dict>
-           </array>
-            
-            <key>metadata</key>
-            
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.baidu.***</string>
-                <key>bundle-version</key>
-                <string>1.0.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>Hiclub</string>
-            </dict>
-            
-        </dict>
-    </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://yqall01.baidupcs.com/file/dfc879d02573780a380dd0e9c44f7b80?bkt=p3-000002e5af7decb94ccd191c90641d38b2e0&amp;fid=1684765880-250528-245758737661999&amp;time=1525864660&amp;sign=FDTAXGERQBHSKa-DCb740ccc5511e5e8fedcff06b081203-tTIUZH1Vwtd1GrVYpz0S0kg7XqQ%3D&amp;to=74&amp;size=112309754&amp;sta_dx=112309754&amp;sta_cs=0&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH%2CYangquan%2CAnywhere%2C%2Czhejiang%2Cct&amp;vuk=1684765880&amp;iv=2&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=000002e5af7decb94ccd191c90641d38b2e0&amp;expires=8h&amp;rt=pr&amp;r=320542829&amp;mlogid=2987326972941079147&amp;vbdid=306610258&amp;fin=2018-05-09-wx.ipa&amp;fn=2018-05-09-wx.ipa&amp;rtype=1&amp;dp-logid=2987326972941079147&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=0&amp;csl=0&amp;csign=FadAc7Zm59VD2USrq%2B6JFjJ09dM%3D&amp;so=0&amp;ut=1&amp;uter=4&amp;serv=0&amp;uc=3930915948&amp;ic=4141630872&amp;ti=b49752b7ce45ffb55f167f10d017476b1908716e6778a731&amp;by=themis</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://apibbs.bianla.cn/page/api/vuecommunity/dist/static/img/logo.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://apibbs.bianla.cn/page/api/vuecommunity/dist/static/img/logo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tencent.bian</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>WeChatAssiant</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
-
